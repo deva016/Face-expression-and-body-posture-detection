@@ -52,7 +52,7 @@ Face_Expression_Detection/
 │   └── results/                     # Final results
 │
 ├── tests/                           # Test scripts
-│   └── test_emotion_detection.py
+│   └── model.py
 │
 ├── README.md                        # Project documentation
 ├── requirements.txt                 # Dependencies
