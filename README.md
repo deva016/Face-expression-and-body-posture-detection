@@ -33,6 +33,7 @@ The Face Expression Detection project is designed to analyze and interpret human
 ## Project Structure
 
 ```
+```bash
 Face_Expression_Detection/
 ├── data/                            # Datasets
 │   ├── train/                       # Training dataset
@@ -63,6 +64,7 @@ Face_Expression_Detection/
 To set up the Face Expression Detection project, follow these steps:
 
 ### Clone the Repository:
+
 ```bash
 git clone https://github.com/yourusername/Face_Expression_Detection.git
 cd Face_Expression_Detection
