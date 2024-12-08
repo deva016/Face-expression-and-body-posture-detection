@@ -160,4 +160,3 @@ Contributions to enhance the functionality of the Face Expression Detection proj
 
 ## Acknowledgements
 We would like to thank the faculty and peers at K L University Hyderabad for their guidance and support throughout the development of this project. Special thanks to Dr. P. Sudharsana Rao for supervision and encouragement.
-```
